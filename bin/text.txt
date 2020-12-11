@@ -1,0 +1,2 @@
+This text contains 584.32 symbols in first line, and 64 symbols in second one.
+This text contains 128 symbols in first line, and 64 symbols in second one.
